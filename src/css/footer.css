@@ -1,11 +1,46 @@
 .footer{
-background: #020202;
+    color: #FFFFFF;
+    padding-top: 51px;
+    background: #020202;
 }
 
 
 .footer__content {
     display: flex;
     justify-content: space-between;
+}
+.footer__logo {
+    height: 41px;
+    width: 129px;
+}
+
+.footer__icon {
+    display: flex;
+    column-gap: 22px;
+    padding-top: 37px;
+}
+
+
+.footer__right {
+    display: flex;
+}
+.footer__title {
+    padding-bottom: 36px;
+}
+
+.footer__list {
+    display: flex;
+    row-gap: 12px;
+    flex-direction: column;
+}
+
+.footer__link {
+  color: #FFFFFF;
+}
+
+.footer__bottom {
+    text-align: center;
+    padding-bottom: 16px;
 }
 
 
