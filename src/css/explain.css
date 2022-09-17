@@ -1,0 +1,25 @@
+.explain__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    padding-top: 60px;
+}
+
+
+.explain__subtitle {
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    padding: 27px 0 47px;
+}
+
+.explain__deck {
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 88px;
+}

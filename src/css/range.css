@@ -1,0 +1,45 @@
+.range {
+    width: 100%;
+}
+
+
+.range__title {
+    text-align: center;
+    padding: 163px 0 102px;
+}
+
+.range__cards {
+    display: flex;
+    column-gap: 100px;
+   align-items: center;
+    justify-content: center;
+}
+.range__card {
+    text-align: center;
+}
+
+.range__comment {
+    padding: 35px 0 40px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.range__desc {
+    font-size: 20px;
+    line-height: 23px;
+    padding-bottom: 44px;
+}
+.range__link {
+    padding-bottom: 52px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.range__background {
+    display: flex;
+    align-content: end;
+}

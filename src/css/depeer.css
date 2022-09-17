@@ -1,0 +1,39 @@
+.deeper {
+    background: #F0EFEB;
+    padding-bottom: 90px;
+}
+
+.deeper__content{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.deeper__text {
+    padding-right: 59px;
+}
+
+.deeper__title {
+    padding-top: 90px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+}
+
+.deeper__subtitle {
+    padding: 42px 0 26px 0;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.btn {
+    height: 36px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+

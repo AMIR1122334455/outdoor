@@ -1,0 +1,49 @@
+.touch {
+    text-align: center;
+    padding-bottom: 88px;
+}
+
+.touch__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    padding: 79px 0 9px;
+}
+
+.touch__subtitle {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    padding-bottom: 26px;
+}
+
+.touch__name {
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+}
+
+.touch__input {
+    padding-left: 8px;
+    height: 39px;
+    width: 153px;
+}
+
+.touch__email {
+    padding:18px 0 16px;
+}
+
+.touch__Email {
+    padding-left: 8px;
+    height: 39px;
+    width: 366px;
+}
+.touch__btn {
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    height: 33px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+}

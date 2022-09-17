@@ -1,0 +1,12 @@
+.footer{
+background: #020202;
+}
+
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+

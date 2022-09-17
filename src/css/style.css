@@ -1,0 +1,23 @@
+@import "header.css";
+@import "depeer.css";
+@import "explain.css";
+@import "sellers.css";
+@import "society.css";
+@import "moroccan.css";
+@import "range.css";
+@import "touch.css";
+@import "footer.css";
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+

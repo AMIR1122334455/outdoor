@@ -1,0 +1,46 @@
+.sellers {
+    padding-bottom: 248px;
+    text-align: center;
+}
+
+.sellers__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 52px;
+
+}
+.sellers__cards {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.sellers__card2 {
+padding: 0 60px 0 63px;
+}
+
+.sellers__comment {
+    padding-top: 27px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.sellers__usd {
+    padding: 17px 0 10px;
+}
+
+.sellers__link {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+
+}
